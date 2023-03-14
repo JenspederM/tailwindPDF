@@ -1,5 +1,5 @@
 {
-  "name": "pdf-example",
+  "name": "tailwindpdf",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
